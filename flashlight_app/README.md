@@ -14,3 +14,6 @@ input.
 
 4. Error Handling: Implement error handling to handle scenarios where the device
 doesn't have a camera flash or if the flashlight fails to turn on.
+
+Screen
+![flashlight](https://github.com/Rafia-Syed/Flashlight-App-CodSoft/assets/126063520/dc2090fc-aa63-49cf-b155-7060e31d828a)
